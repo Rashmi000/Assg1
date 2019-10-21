@@ -1,0 +1,48 @@
+
+.navbar-brand{
+    margin-left: 50PX;
+}
+.main-card {
+    padding-top: 0px;
+    height: 50%;
+}
+.container-1 {
+    margin:0px;
+    padding:0px;
+    height: 50%;
+}
+.card-img{
+    height: 50%;
+}
+.row{
+    padding-top: 40px;
+}
+.image{
+    height:250px;
+    width:100%;
+}
+.container-1 h1{
+    padding-left: 30%;
+    padding-right: 25%;
+    padding-top: 10%;
+    font-size: 50px;
+    color: blue;
+    
+}
+.container-1 h2{
+    padding-left: 35%;
+    padding-right: 25%;
+    font-size: 30px;
+    color: blue;
+}
+.btn-1 {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color:rgb(23, 68, 128);
+    border-radius: 0px;
+    font-size: 20px;
+    color: black;
+}
