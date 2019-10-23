@@ -18,20 +18,20 @@ h1{
     padding-right: 25%;
     padding-top: 70px;
     font-size: 50px;
-    color: blue;
+    color: rgb(229, 255, 0);
     
 }
 h2{
     padding-left: 35%;
     padding-right: 25%;
     font-size: 30px;
-    color: blue;
+    color: rgb(229, 255, 0);
 }
 .btn{
     margin-top: 20px;
     margin-left: 45%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     padding-left: 20px;
     padding-right: 20px;
     background-color:white;
@@ -45,4 +45,6 @@ h2{
 }
 .image-circle{
     border-radius: 50%;
+    height: 300px;
+    width:250px;
 }
