@@ -1,50 +1,49 @@
 
 .bg-image {
-    background-image:url(http://i0.wp.com/vida-spyqpdxrgyld6rrkjib.netdna-ssl.com/wp-content/uploads/2015/03/91352-e1563996317916.jpg?strip=all);
-    height: 400px;
-    padding-top:0px;
-    background-size:cover;
-    width:100%;
-  }
-  .navbar-brand{
-    margin-left: 50PX;
+  background-image:url(http://i0.wp.com/vida-spyqpdxrgyld6rrkjib.netdna-ssl.com/wp-content/uploads/2015/03/91352-e1563996317916.jpg?strip=all);
+  height: 400px;
+  padding-top:0px;
+  background-size:cover;
+  width:100%;
 }
-  .navbar {
-    background: transparent;
-  }
+.navbar-brand{
+  margin-left: 50PX;
+}
+.navbar {
+  background: transparent;
+}
 
 h1{
-    padding-left: 30%;
-    padding-right: 25%;
-    padding-top: 70px;
-    font-size: 50px;
-    color: rgb(229, 255, 0);
-    
+  padding-left: 30%;
+  padding-right: 25%;
+  padding-top: 70px;
+  font-size: 50px;
+  color: rgb(229, 255, 0);
+  
 }
 h2{
-    padding-left: 35%;
-    padding-right: 25%;
-    font-size: 30px;
-    color: rgb(229, 255, 0);
+  padding-left: 35%;
+  padding-right: 25%;
+  font-size: 30px;
+  color: rgb(229, 255, 0);
 }
 .btn{
-    margin-top: 20px;
-    margin-left: 45%;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color:white;
-    border-radius: 50px;
-    font-size: 20px;
-    color: black;
-    
+  margin-top: 20px;
+  margin-left: 45%;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color:white;
+  border-radius: 50px;
+  font-size: 20px;
+  color: black;
+  
 }
 .row{
-    padding-top: 30px;
-    padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .image-circle{
-
-    border-radius: 50%;
-    height:300px;
-    width:200px;
+  border-radius: 50%;
+  height:300px;
+  width:200px;
 }
